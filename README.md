@@ -1,10 +1,16 @@
 안녕하세요 한재원입니다.
+
 저는 대학교에서 독일어와 빅데이터를 전공했습니다.
+
 파이썬을 활용한 머신러닝/딥러닝, 자연어처리, 추천시스템에 관심 있습니다.
 
+
 Hallo. Ich heiße Jaewon Han.
+
 Ich habe Deutsch und Bigdata an der Universität studiert.
+
 Meine Gegenstände des neuliches Interesses sind Machine Learning/Deep Learning, NLP, Recommendation System.
+
 
 ## Knowledge Domains
 
@@ -12,21 +18,21 @@ Meine Gegenstände des neuliches Interesses sind Machine Learning/Deep Learning,
 
 | **Category** | **Details** |
 |--------------|-------------|
-| **![My Majors](https://img.shields.io/badge/My%20Majors-EAF4FB?style=flat-square)** | ![German Language](https://img.shields.io/badge/German%20Language-A8E1DB?style=flat-square) ![Data Science](https://img.shields.io/badge/Data%20Science-A8E1DB?style=flat-square) |
+| **![My Majors](https://img.shields.io/badge/My%20Majors-EAF4FB?style=flat-square)** | ![German Language](https://img.shields.io/badge/German%20Language-FDE2E4?style=flat-square) ![Data Science](https://img.shields.io/badge/Data%20Science-FDE2E4?style=flat-square) |
 
 
 #### Areas of Interest & Specific Interests
 
 | **Category** | **Details** |
 |--------------|-------------|
-| **![Areas of Interest](https://img.shields.io/badge/Areas%20of%20Interest-EAF4FB?style=flat-square)** | ![Languages](https://img.shields.io/badge/Languages-A8E1DB?style=flat-square) ![Mathematics](https://img.shields.io/badge/Mathematics-A8E1DB?style=flat-square)  |
-| **![Specific Interests](https://img.shields.io/badge/Specific%20Interests-EAF4FB?style=flat-square)** |  ![Game](https://img.shields.io/badge/Game%20Issues-EAF4FB?style=flat-square) ![Education](https://img.shields.io/badge/Education%20Issues-EAF4FB?style=flat-square) |
+| **![Areas of Interest](https://img.shields.io/badge/Areas%20of%20Interest-EAF4FB?style=flat-square)** | ![Languages](https://img.shields.io/badge/Languages-FDE2E4?style=flat-square) ![Mathematics](https://img.shields.io/badge/Mathematics-FDE2E4?style=flat-square)  |
+| **![Specific Interests](https://img.shields.io/badge/Specific%20Interests-EAF4FB?style=flat-square)** |  ![Game](https://img.shields.io/badge/Game%20Issues-FDE2E4?style=flat-square) ![Business](https://img.shields.io/badge/Business%20Issues-EAF4FB?style=flat-square) |
 
 #### Professional Experiences
 
 | **Category** | **Details** |
 |--------------|-------------|
-| **![Professional Experiences](https://img.shields.io/badge/Professional%20Experiences-EAF4FB?style=flat-square)** | ![Chemical Engineering Researcher](https://img.shields.io/badge/Chemical%20Engineering%20Researcher-A8E1DB?style=flat-square) |
+| **![Professional Experiences](https://img.shields.io/badge/Professional%20Experiences-EAF4FB?style=flat-square)** | ![Chemical Engineering Researcher](https://img.shields.io/badge/Chemical%20Engineering%20Researcher-FDE2E4?style=flat-square) |
 
 
 ## Stats
